@@ -1,0 +1,27 @@
+/*GREEN-2*/
+
+.header{
+    background: url(bg-header.png) repeat-y -4px top;
+}
+
+.home-blog-comment {
+    background: url(bg-comment.png) no-repeat left top;
+}
+
+.nivo-caption p {
+    background:  url(bg-nivo-caption-title.png) no-repeat top left!important;
+}
+
+.sidebar_widget_holder #s input.search-submit-button{
+    background:url(searchform-button.png) no-repeat top left;
+}
+
+.nivo-caption a:hover {color:#346863}
+
+.sub-menu a{
+    color: #669f9a!important;
+}
+
+.sub-menu li a:hover{
+    color: #346863!important;
+}

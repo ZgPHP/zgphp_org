@@ -1,0 +1,22 @@
+.sidebar_widget_holder .tag-center { height: 23px; padding: 7px 7px 0; }
+
+.pagination-center { height: 23px; padding: 7px 7px 0; }
+
+.white-center,
+.black-center,
+.grey-center,
+.red-center,
+.green-center,
+.yellow-center,
+.blue-center,
+.brown-center { height: 25px; padding: 5px 12px 0; }
+
+.link-blog-page a { background: url(../style/img/border-category.png) no-repeat right 11px; }
+
+.logo {
+    margin: 22px 0 0px 70px;
+    height: 74px;
+    width: 220px;
+}
+
+

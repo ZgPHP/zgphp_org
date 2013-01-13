@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inkland Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-08 18:26+0100\n"
+"PO-Revision-Date: 2012-06-08 18:26+0100\n"
+"Last-Translator: Danko Dubajic <dubajicd@gmail.com>\n"
+"Language-Team: ThemesKingdom <info@themeskingdom.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: /Volumes/Storage/01_localhost/01_develop/wp-content/themes/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: Inkland\n"
+
+#: Inkland/404.php:14
+msgid "404 error"
+msgstr ""
+
+#: Inkland/404.php:16
+msgid "Looks like the page you were looking for does not exist. Sorry about that."
+msgstr ""
+
+#: Inkland/404.php:17
+msgid "Check the web address for typos, or go to"
+msgstr ""
+
+#: Inkland/404.php:17
+msgid "Home page"
+msgstr ""
+
+#: Inkland/_blog.php:86
+#: Inkland/archive-pt_portfolio.php:76
+#: Inkland/archive.php:69
+#: Inkland/index.php:184
+#: Inkland/search.php:81
+msgid "Posted: "
+msgstr ""
+
+#: Inkland/_blog.php:92
+#: Inkland/archive-pt_portfolio.php:82
+#: Inkland/archive.php:75
+#: Inkland/index.php:190
+#: Inkland/search.php:87
+msgid "Categories:"
+msgstr ""
+
+#: Inkland/_blog.php:100
+#: Inkland/archive-pt_portfolio.php:90
+#: Inkland/archive.php:83
+#: Inkland/index.php:198
+#: Inkland/search.php:95
+msgid "Continue Reading"
+msgstr ""
+
+#: Inkland/_contact.php:21
+msgid "Contact"
+msgstr ""
+
+#: Inkland/_contact.php:175
+msgid "Say Hello"
+msgstr ""
+
+#: Inkland/_contact.php:177
+msgid "Name *"
+msgstr ""
+
+#: Inkland/_contact.php:178
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: Inkland/_portfolio.php:39
+msgid "Filter :"
+msgstr ""
+
+#: Inkland/_portfolio.php:40
+msgid "All"
+msgstr ""
+
+#: Inkland/comments.php:13
+msgid "- Your comment is awaiting moderation."
+msgstr ""
+
+#: Inkland/comments.php:29
+msgid "No comments so far!"
+msgstr ""
+
+#: Inkland/comments.php:31
+msgid "Comments"
+msgstr ""
+
+#: Inkland/comments.php:44
+msgid "You must be"
+msgstr ""
+
+#: Inkland/comments.php:44
+msgid "logged in"
+msgstr ""
+
+#: Inkland/comments.php:44
+msgid "to post a comment."
+msgstr ""
+
+#: Inkland/comments.php:86
+msgid "Leave a Comment"
+msgstr ""
+
+#: Inkland/comments.php:91
+msgid "Name (required)"
+msgstr ""
+
+#: Inkland/comments.php:92
+msgid "E-mail (required)"
+msgstr ""
+
+#: Inkland/comments.php:99
+msgid "Send"
+msgstr ""
+
+#: Inkland/comments.php:113
+msgid "Comments are closed"
+msgstr ""
+
+#: Inkland/footer.php:26
+msgid "Follow us on :"
+msgstr ""
+
+#: Inkland/search.php:101
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: Inkland/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: Inkland/single.php:25
+msgid "Portfolio"
+msgstr ""
+
+#: Inkland/tags.php:45
+msgid "Posted:"
+msgstr ""
+
+#: Inkland/tags.php:53
+msgid "Comments:"
+msgstr ""
+
+#: Inkland/tags.php:59
+msgid "Read more"
+msgstr ""
+
+#: Inkland/inc/shortcodes/popup.php:20
+msgid "Insert Shortcode"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:89
+#: Inkland/inc/widgets/widget-twitter.php:44
+msgid "Title:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:93
+msgid "Newsletter Text:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:97
+msgid "Chose Service:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:102
+msgid "MailChimp API Key:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:107
+msgid "MailChimp API List:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:112
+msgid "Sendloop Username:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-newsletter.php:117
+msgid "Sendloop List ID:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-twitter.php:48
+msgid "Username:"
+msgstr ""
+
+#: Inkland/inc/widgets/widget-twitter.php:52
+msgid "Number of tweets:"
+msgstr ""
+
