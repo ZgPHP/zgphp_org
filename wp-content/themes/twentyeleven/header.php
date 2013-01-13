@@ -24,6 +24,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width" />
+<meta property="og:image" content="http://zgphp.org/wp-content/uploads/2012/09/zgPhp_big_logo-e1354479112545.jpg" />
 <title><?php
 	/*
 	 * Print the <title> tag based on what is being viewed.
