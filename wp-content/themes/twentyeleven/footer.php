@@ -25,6 +25,7 @@
 			<div id="site-generator">
 				<?php do_action( 'twentyeleven_credits' ); ?>
 				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyeleven' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentyeleven' ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyeleven' ), 'WordPress' ); ?></a>
+				<a href="http://www.plus.hr/"><br /><img src="http://zgphp.org/wp-content/uploads/2012/11/plus_logo.jpg" alt="Plus hosting"></a>
 			</div>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
