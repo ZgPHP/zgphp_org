@@ -1,0 +1,13 @@
+
+RewriteEngine on
+
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www\.zgphp\.org$
+RewriteRule ^/?$ "http\:\/\/zgphp\.org\/" [R=301,L]
+
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
