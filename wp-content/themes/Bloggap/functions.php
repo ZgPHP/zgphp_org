@@ -532,6 +532,15 @@ add_filter('excerpt_more', 'new_excerpt_more');
 	}
 
 
+	if(function_exists('register_sidebar')){
+		register_sidebar(array(
+                        'name'          => 'Left Widget 1',
+                        'before_widget' => '<div class="menu_box_holder">',
+                        'after_widget'  => '</div>',
+                        'before_title'  => '<h2>',
+                        'after_title'   => '</h2>' )
+                        );
+	}
 
 
         
