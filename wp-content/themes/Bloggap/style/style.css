@@ -959,19 +959,19 @@ h6 {
 
 
 .footer_box_holder {
-    float:center;
+    text-align:center;
     width:100%;
     margin:0 0 50px 0;
 }
 
 .left_box {
-    float: center;
+    text-align: center;
     margin: 0 50px 0 0;
     width: 280px;
 }
 
 .left_box h2 {
-    float: center;
+    text-align: center;
     width: 100%;
     font-size: 16px;
     color: #ffffff;
