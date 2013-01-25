@@ -121,7 +121,7 @@ get_template_part('/inc/change-colors');
                                      <?php } ?>
                     </div><!--/nav-->
 
-                            <div class="">
+                            <div class="footer_box">
                                 <?php if(function_exists('dynamic_sidebar') && dynamic_sidebar('Left Widget 1')) : ?>
                                 <?php endif; ?>
                             </div>
