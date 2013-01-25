@@ -73,7 +73,7 @@ $prefix = 'tk_';
             <!--Post Standard-->
             <div class="blog-one left">
                 <div class="background-color"></div>
-                <?php if($format =='') { ?>
+                <?php if($format =='' || $format == 0) { ?>
                      <?php if(has_post_thumbnail()) { ?>
                         <div class="blog-images left">
                             <div class="topborder"></div>
