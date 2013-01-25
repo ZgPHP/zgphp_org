@@ -190,6 +190,14 @@ $prefix = 'tk_';
 
 
 
+                    <!-- ASIDE POST FORMAT -->
+                    <?php if($format !== 'aside') { ?>
+                    <div class="blog-title left">                        
+                            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>                        
+                        <?php if($undertitle){ ?><p><?php echo $undertitle; ?></p><?php } ?>
+                    </div><!--/blog-title-->
+                    <?php } ?>
+
                <?php  if($format !=='image'){ ?>
                 <?php if($format !== 'aside') { ?>
                     <div class="blog-category left">
@@ -226,14 +234,6 @@ $prefix = 'tk_';
                     </div><!--/blog-category-->
                      <?php } ?>
 
-
-                    <!-- ASIDE POST FORMAT -->
-                    <?php if($format !== 'aside') { ?>
-                    <div class="blog-title left">                        
-                            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>                        
-                        <?php if($undertitle){ ?><p><?php echo $undertitle; ?></p><?php } ?>
-                    </div><!--/blog-title-->
-                    <?php } ?>
 
 
                 <div class="blog-text shortcodes left">
