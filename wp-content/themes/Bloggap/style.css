@@ -1,0 +1,16 @@
+/*
+Theme Name: Bloggap
+Support URI: http://www.themeskingdom.com/support/
+Description: Medicate is a premium WordPress theme for Health and Medical websites and blogs. It is a most suitable theme for doctors, dentists, hospitals, health clinics, surgeons and other type of health and medical related websites
+Author: Themeskingdom
+Author URI: http://www.themeskingdom.com/support/
+Version: 1.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Theme URI: http://www.themeskingdom.com/
+Tags: one-column, two-columns, three-columns, four-columns, featured-images, post-formats, theme-options, threaded-comments, translation-ready
+*/
+
+
+@import url("style/reset.css");
+@import url("style/style.css");

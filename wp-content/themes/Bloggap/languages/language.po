@@ -1,0 +1,645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-26 15:59+0100\n"
+"PO-Revision-Date: 2012-12-26 15:59+0100\n"
+"Last-Translator: ThemesKingdom <info@themeskingdom.com>\n"
+"Language-Team: ThemesKingdom <info@themeskingdom.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: /Users/justdot/Desktop/htdocs/development/Develop/wp-"
+"content/themes\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: medicate\n"
+
+#: medicate/404.php:15
+msgid ""
+"Looks like the page you were looking for does not exist. Sorry about that."
+msgstr ""
+
+#: medicate/404.php:16
+msgid "Check the web address for typos, or go to"
+msgstr ""
+
+#: medicate/404.php:16
+msgid "HOME PAGE"
+msgstr ""
+
+#: medicate/_blog.php:207 medicate/archive.php:170 medicate/home_blog.php:195
+#: medicate/search.php:167
+msgid "Read more..."
+msgstr ""
+
+#: medicate/_contact.php:182 medicate/home_contact.php:206
+msgid "Say Hello"
+msgstr ""
+
+#: medicate/_contact.php:184
+msgid "Your email address will not be published."
+msgstr ""
+
+#: medicate/_contact.php:188 medicate/home_contact.php:210
+msgid "Name"
+msgstr ""
+
+#: medicate/_contact.php:189 medicate/home_contact.php:211
+msgid "Email"
+msgstr ""
+
+#: medicate/_contact.php:192 medicate/comments.php:103
+#: medicate/home_contact.php:214
+msgid "Message"
+msgstr ""
+
+#: medicate/_contact.php:198 medicate/comments.php:109
+msgid "Send"
+msgstr ""
+
+#: medicate/_gallery.php:50 medicate/_services.php:75
+#: medicate/_team-members.php:49 medicate/home_gallery.php:14
+#: medicate/home_services.php:65 medicate/home_team-members.php:36
+msgid "Filter:"
+msgstr ""
+
+#: medicate/_gallery.php:51 medicate/_services.php:76
+#: medicate/_team-members.php:50 medicate/home_gallery.php:15
+#: medicate/home_services.php:66 medicate/home_team-members.php:37
+msgid "All"
+msgstr ""
+
+#: medicate/_gallery.php:138 medicate/_gallery.php:167
+#: medicate/_gallery.php:185 medicate/_gallery.php:203
+#: medicate/home_gallery.php:81 medicate/home_gallery.php:100
+#: medicate/home_gallery.php:116 medicate/home_gallery.php:132
+msgid "View"
+msgstr ""
+
+#: medicate/_services.php:147 medicate/home_services.php:137
+msgid "Read more…"
+msgstr ""
+
+#: medicate/comments.php:13
+msgid "- Your comment is awaiting moderation."
+msgstr ""
+
+#: medicate/comments.php:13
+msgid " - Edit - "
+msgstr ""
+
+#: medicate/comments.php:27
+msgid "No comments so far!"
+msgstr ""
+
+#: medicate/comments.php:30
+msgid "Comments"
+msgstr ""
+
+#: medicate/comments.php:40
+msgid "You must be"
+msgstr ""
+
+#: medicate/comments.php:40
+msgid "logged in"
+msgstr ""
+
+#: medicate/comments.php:40
+msgid "to post a comment."
+msgstr ""
+
+#: medicate/comments.php:91
+msgid "Leave a Reply"
+msgstr ""
+
+#: medicate/comments.php:91
+msgid "Leave a Comment"
+msgstr ""
+
+#: medicate/comments.php:99
+msgid "Name (required)"
+msgstr ""
+
+#: medicate/comments.php:100
+msgid "E-mail (required)"
+msgstr ""
+
+#: medicate/comments.php:124
+msgid "Comments are closed"
+msgstr ""
+
+#: medicate/functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: medicate/header.php:23
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: medicate/header.php:122
+msgid "Follow us:"
+msgstr ""
+
+#: medicate/home_contact.php:220
+msgid "Send Message"
+msgstr ""
+
+#: medicate/index.php:127 medicate/index.php:209 medicate/index.php:253
+msgid "View All"
+msgstr ""
+
+#: medicate/index.php:252
+msgid "Latest News"
+msgstr ""
+
+#: medicate/search.php:174
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: medicate/single-gallery.php:55
+msgid "Back to"
+msgstr ""
+
+#: medicate/single-services.php:55
+msgid "Back to all Services"
+msgstr ""
+
+#: medicate/single-team-members.php:72
+msgid "Follow :"
+msgstr ""
+
+#: medicate/single-team-members.php:79
+msgid "Mail :"
+msgstr ""
+
+#: medicate/single.php:205
+msgid "Share This :"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:10
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:11
+msgid "All Gallery Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:12 medicate/inc/custom-taxonomies.php:13
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:14
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:15
+msgid "Update Gallery Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:16
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:17
+msgid "New Gallery Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:18
+msgid "Gallery Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:29
+msgid "Search Team Members Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:30
+msgid "All Team Members Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:31 medicate/inc/custom-taxonomies.php:32
+msgid "Parent Team Members Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:33
+msgid "Edit Team Members Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:34
+msgid "Update Team Members Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:35
+msgid "Add New Team Members Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:36
+msgid "New Team Members Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:37
+msgid "Team Members Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:49
+msgid "Search Services Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:50
+msgid "All Services Categories"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:51 medicate/inc/custom-taxonomies.php:52
+msgid "Parent Service Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:53
+msgid "Edit Service Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:54
+msgid "Update Services Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:55
+msgid "Add New Services Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:56
+msgid "New Services Category"
+msgstr ""
+
+#: medicate/inc/custom-taxonomies.php:57
+msgid "Services Categories"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:10
+msgid "VIdeo Link"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:17
+msgid "Video Link"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:29
+msgid "Slider Fields"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:48 medicate/inc/meta-boxes.php:55
+msgid "Audio Link"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:67 medicate/inc/meta-boxes.php:74
+msgid "Quote Text"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:82
+msgid "Quote Author"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:94
+msgid "Link"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:101
+msgid "Link Text"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:108
+msgid "Link Url"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:122
+msgid "Event Date"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:129
+msgid "Date Of Event"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:141
+msgid "Testimonial"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:149
+msgid "Job Position"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:157
+msgid "E-mail"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:168
+msgid "Service Info"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:176 medicate/inc/post-types.php:90
+#: medicate/inc/post-types.php:91 medicate/inc/post-types.php:102
+msgid "Services"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:188
+msgid "Member Info"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:196
+msgid "Team Member Title"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:204
+msgid "Facebook Account"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:212
+msgid "Twitter account"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:221
+msgid "Linkedin account"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:230
+msgid "Google+ Account"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:238
+msgid "E-Mail"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:254
+msgid "Headline Text"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:262
+msgid "Page Headline"
+msgstr ""
+
+#: medicate/inc/meta-boxes.php:271
+msgid "Page Headline Link"
+msgstr ""
+
+#: medicate/inc/post-types.php:11 medicate/inc/post-types.php:12
+#: medicate/inc/post-types.php:23
+msgid "Gallery"
+msgstr ""
+
+#: medicate/inc/post-types.php:13 medicate/inc/post-types.php:53
+#: medicate/inc/post-types.php:92
+msgid "Add New"
+msgstr ""
+
+#: medicate/inc/post-types.php:14
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:15
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:16
+msgid "New Gallery Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:17
+msgid "All Gallery Items"
+msgstr ""
+
+#: medicate/inc/post-types.php:18
+msgid "View this Gallery Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:19
+msgid "Search Gallery Items"
+msgstr ""
+
+#: medicate/inc/post-types.php:20
+msgid "No Gallery Items"
+msgstr ""
+
+#: medicate/inc/post-types.php:21
+msgid "No Gallery Items in Trash"
+msgstr ""
+
+#: medicate/inc/post-types.php:51 medicate/inc/post-types.php:52
+msgid "Team"
+msgstr ""
+
+#: medicate/inc/post-types.php:54
+msgid "Add New Team Member"
+msgstr ""
+
+#: medicate/inc/post-types.php:55
+msgid "Edit Team Member"
+msgstr ""
+
+#: medicate/inc/post-types.php:56
+msgid "New Team Member"
+msgstr ""
+
+#: medicate/inc/post-types.php:57
+msgid "All Team Members"
+msgstr ""
+
+#: medicate/inc/post-types.php:58
+msgid "View this Team Member"
+msgstr ""
+
+#: medicate/inc/post-types.php:59
+msgid "Search Team Members"
+msgstr ""
+
+#: medicate/inc/post-types.php:60
+msgid "No Team Members"
+msgstr ""
+
+#: medicate/inc/post-types.php:61
+msgid "No Team Members in Trash"
+msgstr ""
+
+#: medicate/inc/post-types.php:63
+msgid "Team Members"
+msgstr ""
+
+#: medicate/inc/post-types.php:93
+msgid "Add New Service Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:94
+msgid "Edit Service Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:95
+msgid "New Service Item"
+msgstr ""
+
+#: medicate/inc/post-types.php:96
+msgid "All Services"
+msgstr ""
+
+#: medicate/inc/post-types.php:97
+msgid "View this Service"
+msgstr ""
+
+#: medicate/inc/post-types.php:98
+msgid "Search Services"
+msgstr ""
+
+#: medicate/inc/post-types.php:99
+msgid "No Services Found"
+msgstr ""
+
+#: medicate/inc/post-types.php:100
+msgid "No Services in Trash"
+msgstr ""
+
+#: medicate/inc/shortcodes/popup.php:20
+msgid "Insert Shortcode"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:13
+msgid "Button URL"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:14
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:21
+msgid "Button's Style"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:22
+msgid "Select the button's style, ie the buttons colour"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:37
+msgid "Button's Text"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:38
+msgid "Add the button's text"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:52
+msgid "Type of list"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:53
+msgid "Select the list type"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:65
+msgid "List Text"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:66
+msgid "Add the list text"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:81
+msgid "Column Type"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:82
+msgid "Select the type of the column."
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:92
+msgid "Last Column"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:93
+msgid "Pick if column is last."
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:102
+msgid "Column Content"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:103
+msgid "Add the column content."
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:118
+msgid "Toggle Title"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:128
+msgid "Toggle Content"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:129
+msgid "Add the toggle content."
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:138
+msgid "Default Value"
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:139
+msgid "Chose to show either open or closed toggle content."
+msgstr ""
+
+#: medicate/inc/shortcodes/settings.php:147
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:10
+msgid " - Newsletter"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:129
+#: medicate/inc/widgets/widget-twitter.php:58
+msgid "Title:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:133
+msgid "Newsletter Text:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:137
+msgid "Chose Service:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:142
+msgid "MailChimp API Key:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:147
+msgid "MailChimp API List:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:152
+msgid "Sendloop Username:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-newsletter.php:157
+msgid "Sendloop List ID:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-twitter.php:9
+msgid " - Twitter Stream"
+msgstr ""
+
+#: medicate/inc/widgets/widget-twitter.php:62
+msgid "Username:"
+msgstr ""
+
+#: medicate/inc/widgets/widget-twitter.php:66
+msgid "Number of tweets:"
+msgstr ""
+
+#: medicate/script/revslider/inc_php/revslider_widget.class.php:8
+msgid "Displays a revolution slider on the page"
+msgstr ""
+
+#: medicate/script/revslider/inc_php/revslider_widget.class.php:9
+msgid "Revolution Slider"
+msgstr ""
+
+#: medicate/script/revslider/inc_php/revslider_widget.class.php:24
+msgid "No sliders found, Please create a slider"
+msgstr ""
