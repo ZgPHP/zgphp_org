@@ -5,7 +5,7 @@
 
 
             <div class="footer-content right">
-                <div class="slide"><a href="#" class="btn-slide active"></a></div><!--/slide-->
+                <div class="slide"><a href="#" class="btn-slide"></a></div><!--/slide-->
                 <div id="panel">
                     <div class="panel-content left">
                         <div class="footer-widgets left">
