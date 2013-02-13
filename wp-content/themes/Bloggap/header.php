@@ -68,6 +68,12 @@
 <?php wp_head();
 get_template_part('/inc/change-colors');      
 ?>
+
+<meta property="fb:admins" content="500311732" />
+<meta property="fb:page_id" content="283755581662319" />
+<meta property="fb:app_id" content="572203872790464"/>
+<meta property="og:site_name" content="ZgPHP meetup"/> 
+
 </head>
 
 <body <?php body_class(); ?>>
