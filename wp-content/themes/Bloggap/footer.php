@@ -161,8 +161,8 @@
 <?php wp_footer();?>
 
   <script type="text/javascript">
-    <!-- The sidebar event delegation is not registered "here"... -->
-    $(document).ready(function () {
+
+	$('').ready(function(){
 		$("#panel").slideToggle("slow");    
     });
   </script>
