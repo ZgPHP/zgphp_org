@@ -162,9 +162,9 @@
 
   <script type="text/javascript">
 
-	$('').ready(function(){
+	
 		$("#panel").slideToggle("slow");    
-    });
+
   </script>
 </body>
 </html>
