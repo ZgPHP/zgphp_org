@@ -73,12 +73,6 @@ get_template_part('/inc/change-colors');
 <meta property="fb:app_id" content="572203872790464"/>
 
 
-  <script type="text/javascript">
-    <!-- The sidebar event delegation is not registered "here"... -->
-    $(document).ready(function () {
-		$("#panel").slideToggle("slow");    
-    });
-  </script>
 
 
 </head>
