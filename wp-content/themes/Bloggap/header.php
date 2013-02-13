@@ -76,7 +76,7 @@ get_template_part('/inc/change-colors');
   <script type="text/javascript">
     <!-- The sidebar event delegation is not registered "here"... -->
     $(document).ready(function () {
-		jQuery("#panel").slideToggle("slow");    
+		$("#panel").slideToggle("slow");    
     });
   </script>
 
