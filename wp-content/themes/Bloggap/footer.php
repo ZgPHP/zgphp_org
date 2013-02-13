@@ -163,7 +163,7 @@
   <script type="text/javascript">
 
 	
-		$("#panel").slideToggle("slow");    
+		jQuery("#panel").slideToggle("slow");    
 
   </script>
 </body>
